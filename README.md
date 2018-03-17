@@ -1,1 +1,1 @@
-# CodeWars
+#The code should retun the array in reverse
