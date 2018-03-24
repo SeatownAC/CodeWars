@@ -1,0 +1,1 @@
+This kata took half an hour, Goolged a lot and would have taken less time if I hadn't erased some of the initial, required code in the kata.
