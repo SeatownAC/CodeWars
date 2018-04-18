@@ -1,0 +1,1 @@
+I racked my brain on this for a while and then I ended up getting help to figure out a solution, afterward I refactored into something I could understand better.
